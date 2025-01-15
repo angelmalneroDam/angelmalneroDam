@@ -1,50 +1,5 @@
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
-    header {
-      text-align: center;
-      padding: 20px;
-      background-color: #0078D7;
-      color: white;
-      border-radius: 10px;
-    }
-    header h1 {
-      margin: 0;
-    }
-    .content {
-      margin: 20px auto;
-      max-width: 800px;
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    .content h2 {
-      color: #0078D7;
-      text-align: center;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    ul li {
-      margin: 10px 0;
-      padding: 10px;
-      background: #f9f9f9;
-      border-left: 4px solid #0078D7;
-      border-radius: 5px;
-    }
-    ul li span {
-      font-weight: bold;
-    }
-  </style>
-</head>
+
 <body>
   <header>
     <h1>Hi, I’m @angelmalneroDam 👋</h1>
