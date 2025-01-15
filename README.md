@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Angel Malnero</h1>
-<h3 align="center">A passionate Multiplataform Developer Student from Spain</h3>
+<h1 align="left">Hi 👋, I'm Angel Malnero</h1>
+<h3 align="left">A passionate Multiplataform Developer Student from Spain</h3>
 
 - 🔭 I’m currently studying on **Unendo by Afa**
 
@@ -8,6 +8,7 @@
 - 📫 How to reach me **anmalper02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/angel-malnero-perez-67145b1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-malnero-perez" height="30" width="40" /></a>
 </p>
